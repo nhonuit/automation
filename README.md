@@ -13,5 +13,5 @@ NEED_TYPING=true
 # How to run this script?
 1. Using node execution:
 node path-to-script/index.js
-2. Using your ide and run the command:
+2. Using your ide and runing the command:
 npm start
